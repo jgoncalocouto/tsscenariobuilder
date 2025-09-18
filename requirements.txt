@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+plotly>=5.20.0
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.2   # for Excel .xlsx support
+pyarrow>=15.0.0   # for Parquet support
